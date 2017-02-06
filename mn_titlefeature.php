@@ -1,8 +1,8 @@
 <?php
 /*
-* Plugin Name: MN Custom Title Feature
+* Plugin Name: MN Title Feature
 * Plugin URI: https://github.com/mariusgnicula/custom-feature
-* Description: A custom title feature widget that can take in a special title for that page. Default is the post thumbnail
+* Description: A title feature widget that can take in a special title for that page.
 * Version: 0.1
 * Author: Marius Nicula
 * Author URI: https://www.linkedin.com/in/mariusgnicula
