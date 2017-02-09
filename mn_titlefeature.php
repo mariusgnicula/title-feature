@@ -15,9 +15,9 @@ function mn_title_feature($atts) {
     // gets the title
     // if no title is set, default is the post title
 
-    $a = shortcode_atts( array(
+    $a = shortcode_atts( [
         'title' => get_the_title()
-    ), $atts );
+    ], $atts );
 
     // save the passed value to a variable
 
